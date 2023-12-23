@@ -1,5 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" width="100%" />
+</div><br>
+<hr>
+ <div align="center">
 
+  ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&theme=transparent&show_icons=true)
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact&theme=transparent)
+</div>
+<hr>
 <!--
 **Colline-Ssekiwala/Colline-Ssekiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
