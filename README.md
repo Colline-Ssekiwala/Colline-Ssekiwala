@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/875/1*RmyTDFTZkk-SLWEfqLBEFw.jpeg" width="100%" />
+  <img src="https://pakwired.com/wp-content/uploads/2019/07/what-is-data-science.jpg" width="100%" />
 </div><br>
 <hr>
  <div align="center">
