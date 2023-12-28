@@ -10,9 +10,9 @@
 <hr>
  <div align="center">
 
-  ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&theme=transparent&show_icons=true)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact&theme=transparent)
+  ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact)
 </div>
 <hr>
 <!--
