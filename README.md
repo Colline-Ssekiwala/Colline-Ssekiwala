@@ -1,8 +1,8 @@
 <hr>
 <div align="center" >
   <h3>Hey There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-   <h3> My name is Colline Ssekiwala: I'm a Data Scientist with proficiency in Data Science, Data Engineering, Data Analysis and Machine Learning.
-  </h3> 
+   <h2> My name is Colline Ssekiwala: I'm a Data Scientist with proficiency in Data Science, Data Engineering, Data Analysis and Machine Learning.
+  </h2> 
 <hr>
 <div align="center">
   <img src="https://pakwired.com/wp-content/uploads/2019/07/what-is-data-science.jpg" width="80%" />
