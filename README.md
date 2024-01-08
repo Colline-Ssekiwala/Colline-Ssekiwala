@@ -1,7 +1,7 @@
 <hr>
 <div align="center" >
   <h3>Hey There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-   <h3> My name is Colline Ssekiwala: I'm a Data Scientist with proficiency in Data Science and Machine Learning. I enjoy working in teams and collaborating with other professionals, but I can also work independently and deliver high-quality results. I'm always eager to learn new skills and explore new challenges in the field of data science.
+   <h3> My name is Colline Ssekiwala: I'm a highly motivated  data scientist with a passion for solving problems using data driven approaches. I have experience working with large datasets and developing predictive models using machine learning techniques. I enjoy working in teams and collaborating with other professionals, but I can also work independently and deliver high-quality results. I'm always eager to learn new skills and explore new challenges in the field of data science.
   </h3> 
 <hr>
 <div align="center">
