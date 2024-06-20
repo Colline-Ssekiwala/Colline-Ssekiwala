@@ -1,10 +1,24 @@
-<hr>
-<div align="center" >
-  <h3>Hey There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
-   <p> My name is Colline Ssekiwala: I'm a proficient data scientist with expertise in both data science and machine learning fields. I have a passion for solving problems using data driven approaches, and experience working with large datasets and developing predictive models using machine learning techniques. I enjoy working in teams and collaborating with other professionals, but I can also work independently and deliver high-quality results. I'm always eager to learn new skills and explore new challenges in the field of data science.
-  </p> 
-<hr>
 
+<div align="center" >
+  <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello! I'm Colline Ssekiwala</h2>
+   <p>I'm a data scientist with expertise in data science, machine learning, data analysis, and data engineering. I have a passion for solving problems using data driven approaches, and software engineering practices. 
+  </p> 
+  <p>When I'm not solving data related problems, I create music with AI at <a href="http://www.musicgateway.com/creative-professionals/artist/colin-blackwood">Colin Blackwood Music</a>. </p>
+<hr>
+<div align="center">
+  <h3>Let's Connect On!</h3>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/colline-ssekiwala/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Colin-Blackwood">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://x.com/CollineSekiwala">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
 <hr>
  <div align="center">
 
@@ -12,4 +26,3 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact)
 </div>
-<hr>
