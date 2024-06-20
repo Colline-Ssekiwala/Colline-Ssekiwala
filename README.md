@@ -26,3 +26,15 @@
   
   ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
 </div>
+<hr>
+<h3 align="centre">Technologies ⚙️ and Tools ⚒️</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></td>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></td>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></td>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50"></td>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-dark.svg" width="50"></td>
+    <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></td>
+  </tr>
+</table>
