@@ -3,7 +3,6 @@
   <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello! I'm Colline Ssekiwala</h2>
    <p>I'm a data scientist with expertise in data science, machine learning, data analysis, and data engineering. I have a passion for solving problems using data driven approaches, and software engineering practices. 
   </p> 
-  <p>When I'm not solving data related problems, I produce AI Music at <a href="https://www.youtube.com/@Colin-Blackwood">Colin Blackwood Music</a>. </p>
 <hr>
 <div align="center">
   <h3>Let's Connect On!</h3>
@@ -11,9 +10,7 @@
   <a href="https://www.linkedin.com/in/colline-ssekiwala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@Colin-Blackwood">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  
   <a href="https://x.com/Ssekiwalac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
