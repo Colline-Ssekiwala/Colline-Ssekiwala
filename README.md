@@ -3,7 +3,7 @@
   <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello! I'm Colline Ssekiwala</h2>
    <p>I'm a data scientist with expertise in data science, machine learning, data analysis, and data engineering. I have a passion for solving problems using data driven approaches, and software engineering practices. 
   </p> 
-  <p>When I'm not solving data related problems, I create music with AI at <a href="https://www.youtube.com/@Colin-Blackwood">Colin Blackwood Music</a>. </p>
+  <p>When I'm not solving data related problems, I create AI Music at <a href="https://www.youtube.com/@Colin-Blackwood">Colin Blackwood Music</a>. </p>
 <hr>
 <div align="center">
   <h3>Let's Connect On!</h3>
