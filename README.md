@@ -21,8 +21,8 @@
 </div>
 <hr>
  <div align="center">
-
+   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact) 
+  
   ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact)
 </div>
