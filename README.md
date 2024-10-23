@@ -23,7 +23,13 @@
    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact) ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
 </div>
-
+<h2>📩 Contact me</h2>
+<div>
+  <ul>
+    <li>Email: <a href="mailto:colinesekiwala@gmail.com">colinesekiwala@gmail.com</a></li>
+    <li>LinkedIn: <a href="linkedin.com/in/colline-ssekiwala">Colline Ssekiwala</a></li>
+  </ul>
+</div>
 
   
   
