@@ -7,6 +7,16 @@
      Welcome to my GitHub! I am passionate about solving real-world problems through data. Here, you'll find my projects focused on machine learning, data analysis, data engineering and data visualization.
   </p> 
 </div>
+<h2>⚙️ Skills and Tools</h2>
+<ul>
+  <li>Languages: Python, R, SQL, JavaScript</li>
+  <li>Data Analysis: Pandas, NumPy, SciPy, Excel, Jupyter Notebooks</li>
+  <li>Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau</li>
+  <li>Machine Learning: Scikit-Learn, TensorFlow, Keras</li>
+  <li>Databases: PostgreSQL, MongoDB, SQLite</li>
+  <li>Big Data & Cloud: Hadoop, Spark, AWS, Azure</li>
+  <li>Version Control: Git, GitHub</li>
+</ul>
 <h2>🏫 Education </h2>
 <div>
   <ul>
