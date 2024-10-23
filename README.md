@@ -17,6 +17,7 @@
   <h2>🏢 Companies I worked with </h2>
   <ul>
     <li>Cloud AG - Switzerland [Data scientist Feb 2023 - May 2024]</li>
+    <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
   </ul>
 </div>
 <h2>🧮 GitHub Statistics </h2>
