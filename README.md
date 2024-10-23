@@ -12,6 +12,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact) ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
 </div>
 
-
+<div>
+  <h2>Companies I worked with 🏢</h2>
+  <p>Cloud AG - Switzerland [Data scientist Feb 2023 - May 2024]</p>
+</div>
   
   
