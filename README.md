@@ -30,17 +30,12 @@
     <li>Cloud AG - Switzerland [Data scientist Feb 2023 - May 2024]</li>
     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
   </ul>
-</div>
-<h2>🧮 GitHub Statistics </h2>
- <div>
-   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact) ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
-</div>
-<h2>📩 Contact me</h2>
+</div> 
+<h2>🌍 Let's connect</h2>
 <div>
   <ul>
-    <li>Email: <a href="mailto:colinesekiwala@gmail.com">colinesekiwala@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/colline-ssekiwala/">Colline Ssekiwala</a></li>
+    <li>Feel free to contact me on: <a href="mailto:colinesekiwala@gmail.com">colinesekiwala@gmail.com</a></li>
   </ul>
 </div>
 
