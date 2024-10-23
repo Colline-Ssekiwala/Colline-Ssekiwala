@@ -27,7 +27,7 @@
 <div>
   <ul>
     <li>Email: <a href="mailto:colinesekiwala@gmail.com">colinesekiwala@gmail.com</a></li>
-    <li>LinkedIn: <a href="linkedin.com/in/colline-ssekiwala">Colline Ssekiwala</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/colline-ssekiwala/">Colline Ssekiwala</a></li>
   </ul>
 </div>
 
