@@ -3,7 +3,8 @@
   <h1>Hi, I'm Colline Ssekiwala   <a href="https://www.linkedin.com/in/colline-ssekiwala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h1> 
-   <p>I'm a data scientist proficient in data science, machine learning, data analysis, and data engineering. I have a passion for solving problems using data driven approaches, and software engineering practices. 
+   <p>
+     Welcome to my GitHub! I am passionate about solving real-world problems through data. Here, you'll find my projects focused on machine learning, data analysis, data engineering and data visualization.
   </p> 
 </div>
 <h2>🏫 Education </h2>
