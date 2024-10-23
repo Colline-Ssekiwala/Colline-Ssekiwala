@@ -1,5 +1,5 @@
 
-<div align="center" >
+<div >
   <h2>Colline Ssekiwala   <a href="https://www.linkedin.com/in/colline-ssekiwala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h2> 
@@ -8,10 +8,8 @@
 
 </div>
 <hr>
- <div align="center">
+ <div >
    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact) 
-  
-  ![Colline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Colline-Ssekiwala&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colline-Ssekiwala&layout=compact)  
 </div>
 
