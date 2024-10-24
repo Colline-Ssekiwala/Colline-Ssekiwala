@@ -31,7 +31,7 @@
     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
   </ul>
 </div> 
-<h2>🎈 Fun experiments I worked on</h2>
+<h2>🎈 Fun experiment I worked on</h2>
 <div>
 <ul>
   <li>Experimented with <a href="https://suno.com/">Suno AI</a> and <a href="https://chatgpt.com/">Chatgpt4o</a> to create a digital music artist - Colin Blackwood [May 2024 - Oct 2024]
