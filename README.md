@@ -31,6 +31,27 @@
     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
   </ul>
 </div> 
+<h2>🎈 Fun experiments I worked on</h2>
+<div>
+<ul>
+  <li>Experimented with <a href="https://suno.com/">Suno AI</a> and <a href="https://chatgpt.com/">Chatgpt4o</a> to create a digital music artist - Colin Blackwood [May 2024 - Oct 2024]
+    <ul>
+      <li>Used <a href="https://suno.com/">Suno AI</a> to create two albums and four singles</li>
+      <li>Used <a href="https://chatgpt.com/">Chatgpt4o</a> to create composition prompts and lyrics for the tracks</li>
+      <li>Used <a href="https://www.pexels.com/">Pexels</a> and <a href="https://clipchamp.com/en/">clipchamp</a> to generate the music videos</li>
+      <li>Check out the results on <a href="https://open.spotify.com/artist/4Dpjic7eO3EUkou423W5Fs?si=AyyBXtqGR0uCANf7Lzzhzw">Spotify</a> and <a href="www.youtube.com/@Colin-Blackwood">YouTube</a></li>
+    </ul>
+  </li>
+</ul>
+</div>
+<h2>⚡ Beyond Data, you can find me</h2>
+<div>
+  <ul>
+    <li>Listening to music and discovering new gems <a href="https://open.spotify.com/user/31dtbmxwzorrbn4ujrn3mqcmukq4?si=71fed5b5fe124a07">@Wutsa</a></li>
+    <li>Traveling to new places and adventures</li>
+    <li>Learning Spanish. Currently reading *Short stories in Spanish*</li>
+  </ul>
+</div>
 <h2>🌍 Let's connect</h2>
 <div>
   <ul>
@@ -38,6 +59,7 @@
     <li>Feel free to contact me on: <a href="mailto:colinesekiwala@gmail.com">colinesekiwala@gmail.com</a></li>
   </ul>
 </div>
+
 
   
   
