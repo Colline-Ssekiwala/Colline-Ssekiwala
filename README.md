@@ -20,15 +20,15 @@
 <h2>🏫 Education </h2>
 <div>
   <ul>
-     <li>BS in Computer Science [Cavendish University Uganda Jan 2020 - Aug 2024]</li>
      <li>Applied Data Science Lab [WorldQuant University Oct 2024 - Present]</li>
+     <li>BS in Computer Science [Cavendish University Uganda Jan 2020 - Aug 2024]</li>
   </ul>
 </div>
 <div>
   <h2>🏢 Companies I worked with </h2>
   <ul>
+     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
     <li>Cloud AG - Switzerland [Data scientist Feb 2023 - May 2024]</li>
-    <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
   </ul>
 </div> 
 <h2>🎈 Fun experiment I worked on</h2>
