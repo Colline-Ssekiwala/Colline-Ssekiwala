@@ -48,7 +48,7 @@
 <h2>⚡ Beyond Data, you can find me</h2>
 <div>
   <ul>
-    <li>Listening to music and discovering new gems <a href="https://open.spotify.com/user/31dtbmxwzorrbn4ujrn3mqcmukq4?si=71fed5b5fe124a07">@Wutsa</a></li>
+    <li>Listening to music and discovering new gems <a href="https://open.spotify.com/user/31dtbmxwzorrbn4ujrn3mqcmukq4?si=71fed5b5fe124a07">@Wutsa</a> and <a href="https://www.youtube.com/@Colin-Blackwood/featured">@Colin Blackwood</a></li>
     <li>Traveling to new places and adventures</li>
     <li>Learning about Personal Finance</li>
     <li>Reading books. Currently reading <a href="https://www.navalmanack.com/">Almanack of Naval Ravikant</a></li>
