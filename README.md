@@ -50,6 +50,7 @@
   <ul>
     <li>Listening to music and discovering new gems <a href="https://open.spotify.com/user/31dtbmxwzorrbn4ujrn3mqcmukq4?si=71fed5b5fe124a07">@Wutsa</a></li>
     <li>Traveling to new places and adventures</li>
+    <li>Learning about Personal Finance</li>
     <li>Learning Spanish. Currently reading *Short stories in Spanish*</li>
   </ul>
 </div>
