@@ -39,7 +39,7 @@
       <li>Used <a href="https://suno.com/">Suno AI</a> to create two albums and four singles</li>
       <li>Used <a href="https://chatgpt.com/">Chatgpt4o</a> to create composition prompts and lyrics for the tracks</li>
       <li>Used <a href="https://www.pexels.com/">Pexels</a> and <a href="https://clipchamp.com/en/">clipchamp</a> to generate the music videos</li>
-      <li>Check out the results on <a href="https://open.spotify.com/artist/4Dpjic7eO3EUkou423W5Fs?si=AyyBXtqGR0uCANf7Lzzhzw">Spotify</a> and <a href="www.youtube.com/@Colin-Blackwood">YouTube</a></li>
+      <li>Check out the results on <a href="https://open.spotify.com/artist/4Dpjic7eO3EUkou423W5Fs?si=AyyBXtqGR0uCANf7Lzzhzw">Spotify</a> and <a href="https://www.youtube.com/@Colin-Blackwood">YouTube</a></li>
     </ul>
   </li>
 </ul>
