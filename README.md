@@ -20,7 +20,6 @@
 <h2>🏫 Education </h2>
 <div>
   <ul>
-     <li>Applied Data Science Lab [WorldQuant University Oct 2024 - Present]</li>
      <li>BS in Computer Science [Cavendish University Uganda Jan 2020 - Aug 2024]</li>
   </ul>
 </div>
