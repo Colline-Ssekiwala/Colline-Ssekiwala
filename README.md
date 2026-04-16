@@ -26,7 +26,7 @@
 <div>
   <h2>🏢 Companies I worked with </h2>
   <ul>
-     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Present]</li>
+     <li>Freelance Services - Switzerland [Data Analyst Sep 2024 - Feb 2026]</li>
     <li>Cloud AG - Switzerland [Data scientist Feb 2023 - May 2024]</li>
   </ul>
 </div> 
