@@ -21,6 +21,7 @@
 <div>
   <ul>
      <li>BS in Computer Science [Cavendish University Uganda Jan 2020 - Aug 2024]</li>
+     <li>MSc Financial Engineering [WorldQuant University - Current]</li>
   </ul>
 </div>
 <div>
