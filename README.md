@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></h1> 
    <p>
-     Welcome to my GitHub! I am passionate about solving real-world problems through data. Here, you'll find my projects focused on financial engineering, machine learning, data analysis, and more
+     Welcome to my GitHub! I am passionate about solving real-world problems through data. Here, you'll find my projects focused on financial engineering, data science, and more
   </p> 
 </div>
 <h2>⚙️ Skills and Tools</h2>
