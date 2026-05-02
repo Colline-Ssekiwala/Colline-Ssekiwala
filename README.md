@@ -9,7 +9,7 @@
 </div>
 <h2>⚙️ Skills and Tools</h2>
 <ul>
-  <li>Languages: Python, R, SQL, JavaScript</li>
+  <li>Languages: Python, SQL</li>
   <li>Data Analysis: Pandas, NumPy, SciPy, Excel, Jupyter Notebooks</li>
   <li>Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Tableau</li>
   <li>Machine Learning: Scikit-Learn, TensorFlow, Keras</li>
